@@ -3,8 +3,6 @@ def using_times
 	  puts "Wingardium Leviosa"
 end
 
-loop do
-  puts "Wingardium Leviosa"
-end
+
 
 
